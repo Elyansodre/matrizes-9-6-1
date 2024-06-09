@@ -1,0 +1,14 @@
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\bin\Debug\net8.0\matrizes 9-6-1.exe
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\bin\Debug\net8.0\matrizes 9-6-1.deps.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\bin\Debug\net8.0\matrizes 9-6-1.runtimeconfig.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\bin\Debug\net8.0\matrizes 9-6-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\bin\Debug\net8.0\matrizes 9-6-1.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\obj\Debug\net8.0\matrizes 9-6-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\obj\Debug\net8.0\matrizes 9-6-1.AssemblyInfoInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\obj\Debug\net8.0\matrizes 9-6-1.AssemblyInfo.cs
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\obj\Debug\net8.0\matrizes 9-6-1.csproj.CoreCompileInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\obj\Debug\net8.0\matrizes 9-6-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\obj\Debug\net8.0\refint\matrizes 9-6-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\obj\Debug\net8.0\matrizes 9-6-1.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\obj\Debug\net8.0\matrizes 9-6-1.genruntimeconfig.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\matrizes 9-6-1\matrizes 9-6-1\obj\Debug\net8.0\ref\matrizes 9-6-1.dll
